@@ -1,2 +1,4 @@
 calculator:
 y = a+b
+x = a*b
+z = a/b
